@@ -1,3 +1,1 @@
-[General]
-ConfigVersion=5
-DBGConsoleOn=true
+this is a text file
